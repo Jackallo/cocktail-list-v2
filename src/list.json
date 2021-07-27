@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Old Fashioned",
+    "summary": "Booziness tempered with sweetness, seasoneed with something bitter",
+    "description": "Bon's favourite drink. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod quam tempore possimus commodi dolorem neque omnis sequi fugit sed expedita.",
+    "ingredients": "Sugar cube, Angostura, Bourbon",
+    "alcohol": 5,
+    "glass": "/images/low.png",
+    "style": "Build",
+    "image": "/images/story1.png",
+    "id": 1
+  },
+  {
+    "name": "Martini",
+    "summary": "Fortified wine brings out subtleties in base spirit",
+    "description": "Bon's favourite drink.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod quam tempore possimus commodi dolorem neque omnis sequi fugit sed expedita.",
+    "ingredients": "Dry Vermouth, Gin, Dry Vermouth, Gin, Dry Vermouth, Gin",
+    "alcohol": 4,
+    "glass": "/images/cup.png",
+    "style": "Stirred",
+    "image": "/images/story2.png",
+    "id": 2
+  },
+  {
+    "name": "Daiquiri",
+    "summary": "The sour style cocktail that balances citrus and sweetness",
+    "description": "Bon's favourite drink.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod quam tempore possimus commodi dolorem neque omnis sequi fugit sed expedita.",
+    "ingredients": "Dry Vermouth, Gin",
+    "alcohol": 3,
+    "glass": "/images/ballon.png",
+    "style": "Shaked",
+    "image": "/images/story3.png",
+    "id": 3
+  }
+]
