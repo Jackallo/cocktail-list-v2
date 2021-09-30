@@ -5,9 +5,9 @@
     "description": "Da una ricetta del leggendario bartender e biologo Mr. Lyan, un negroni preparato con il forno al microonde.",
     "ingredients": "Gin, vermouth rosso, Campari bitter, mora, rosmarino e bucce di pompelmo",
     "alcohol": 5,
-    "glass": "/images/low.png",
+    "glass": "./images/low.png",
     "style": "Stirred",
-    "image": "/images/nuked-negroni.jpg",
+    "image": "./images/nuked-negroni.jpg",
     "id": 1
   },
   {
@@ -16,9 +16,9 @@
     "description": "Vincitore del premio Patron Perfectionist come miglior drink di Paesi Bassi, Lussemburgo e Belgio. Da una ricetta di Zana Möhlmann.",
     "ingredients": "Tequila, acqua di banana, sherry fino, miele, soluzione salina",
     "alcohol": 2,
-    "glass": "/images/high.png",
+    "glass": "./images/high.png",
     "style": "Stirred",
-    "image": "/images/white-noise.png",
+    "image": "./images/white-noise.png",
     "id": 2
   },
   {
@@ -27,9 +27,9 @@
     "description": "Da una ricetta del barista dell'Octopus, che l'ha chiamato some suo figlio (chissà se lui è hugo o mojito). Leggero e rinfrescante",
     "ingredients": "Vodka, liquore al sambuco, cedrata Tassoni, lime e zucchero",
     "alcohol": 2,
-    "glass": "/images/high.png",
+    "glass": "./images/high.png",
     "style": "Stirred",
-    "image": "/images/axel.jpg",
+    "image": "./images/axel.jpg",
     "id": 3
   },
   {
@@ -38,9 +38,9 @@
     "description": "Sometimes you're EvoL, sometimes you LovE. Un drink che si sposa sia con gin che con vodka, nato dall'amore per i pom...pelmi.",
     "ingredients": "Gin|Vodka, succo di pompelmo, limone, rosmarino, sciroppo al miele",
     "alcohol": 3,
-    "glass": "/images/cup.png",
+    "glass": "./images/cup.png",
     "style": "Shaked",
-    "image": "/images/evil-crush.jpg",
+    "image": "./images/evil-crush.jpg",
     "id": 4
   },
   {
@@ -49,9 +49,9 @@
     "description": "Forse il classico meno conosciuto. Prima colpisce con l'alcol e l'asprezza, poi si fa perdonare con un finale alla violetta",
     "ingredients": "Gin, maraschino, limone, liquore alla violetta",
     "alcohol": 4,
-    "glass": "/images/cup.png",
+    "glass": "./images/cup.png",
     "style": "Shaked",
-    "image": "/images/aviation.jpg",
+    "image": "./images/aviation.jpg",
     "id": 5
   },
   {
@@ -60,9 +60,9 @@
     "description": "Fruttato, con sentori di limone e il classico kick dello zenzero",
     "ingredients": "Liquore strega, limone, ginger beer",
     "alcohol": 2,
-    "glass": "/images/mug.png",
+    "glass": "./images/mug.png",
     "style": "Build",
-    "image": "/images/strega-mule.jpg",
+    "image": "./images/strega-mule.jpg",
     "id": 6
   },
   {
@@ -71,9 +71,9 @@
     "description": "Picchia duro, ma il mirtillo e il lime ti proteggeranno",
     "ingredients": "Vodka, triple sec, lime, succo di mirtillo",
     "alcohol": 4,
-    "glass": "/images/cup.png",
+    "glass": "./images/cup.png",
     "style": "Shaked",
-    "image": "/images/cosmopolitan.jpg",
+    "image": "./images/cosmopolitan.jpg",
     "id": 7
   },
   {
@@ -82,9 +82,9 @@
     "description": "La dolcezza del vermouth e dell'angostura si bilanciano con la prepotenza del whisky",
     "ingredients": "Bourbon whisky, angostura, vermouth rosso",
     "alcohol": 4,
-    "glass": "/images/cup.png",
+    "glass": "./images/cup.png",
     "style": "Stirred",
-    "image": "/images/manhattan.jpg",
+    "image": "./images/manhattan.jpg",
     "id": 8
   }
 ]
